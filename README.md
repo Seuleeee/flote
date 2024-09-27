@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e70ef1aa-7f9e-41b7-b7cf-ab8d2f7d5763" alt="Flote Logo" width="100" style="float: left; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/e70ef1aa-7f9e-41b7-b7cf-ab8d2f7d5763" alt="Flote Logo" width="300" style="float: left; margin-right: 10px;">
 </p>
 <p align="center">
-  <h1 align="center">Flote, Your Personalized Travel Itinerary Recommender 🌍✈️</h1>
+  <h1 align="center">Your Personalized Travel Itinerary Recommender 🌍✈️</h1>
 </p>
 
 ## Introduction 🚀
